@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (451)" src="https://github.com/user-attachments/assets/369a94a0-8ba9-49c7-b4d7-45f9d0e5d188" /><img width="1920" height="1080" alt="Screenshot (449)" src="https://github.com/user-attachments/assets/4ff0f2c7-133b-40ee-b1b5-1a5de49039f5" /><img width="1920" height="1080" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/6c7b0445-2865-496e-b5e0-ae5a4cb9d043" /><img width="1920" height="1080" alt="Screenshot (453)" src="https://github.com/user-attachments/assets/c2171bc6-6823-4ed5-97f1-d330c0af3de7" /><img width="1920" height="1080" alt="Screenshot (453)" src="https://github.com/user-attachments/assets/a52d2719-1621-4ddd-bfdc-3365e1fc464e" /># Healthcare Center Performance Dashboard (Power BI)
+# Healthcare Center Performance Dashboard (Power BI)
 
 ## 📊 Project Overview
 This project analyzes the performance of a healthcare center using an interactive Power BI dashboard. It focuses on financial performance, patient insights, provider analysis, and overall trends.
