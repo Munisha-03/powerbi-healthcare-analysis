@@ -98,5 +98,3 @@ The dashboard is built using multiple interconnected datasets (2440 records) to 
 
 ## 🔗 Project Purpose
 This project was created to practice data analysis and visualization skills using Power BI and to demonstrate the ability to build interactive dashboards.
-
----
